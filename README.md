@@ -28,11 +28,7 @@
     98 (байт 'b') -> 3,
     99 (байт 'c') -> 1
 }  
-           [Root]
-          /      \
-    (4) [b, c]    (5) 'a'
-       /     \
-  (1) 'c'    'b' (3)
+![image](https://github.com/user-attachments/assets/341033a6-3c33-45e1-b7a0-d4f1af0358ae)
 
 a -> 0
 b -> 10
